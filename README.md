@@ -1,2 +1,2 @@
-# Python--Space-Invader
-# Code and files for the python game "Space Invader"
+# Python--Flappy bird
+# Code and files for the python game "Flappy Bird"
